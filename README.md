@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ashwathraj
+- 👀 I’m interested in Datascientist roles
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me ashwathrajraman98@gmail.com
