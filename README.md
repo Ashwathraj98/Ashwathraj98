@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ashwathraj
-- 👀 I’m interested in Datascientist roles
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me ashwathrajraman98@gmail.com
+-- 🔭 I’m currently working on Data science projects.
+- 🌱 I’m currently learning Data science.
+- 👯 I’m looking to collaborate on any end to end Data science project.
+- 💬 Ask me about anything, I ll try my best to share my knowledge.
+- 📫 How to reach me: ashwathrajraman98@gmail.com 
+- ⚡ Fun fact: I'm graduate mechanical engineer
